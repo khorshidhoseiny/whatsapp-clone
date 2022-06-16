@@ -1,3 +1,6 @@
 @tailwind base;
 @tailwind components;
+.chat_reciever{
+    @apply ml-auto bg-green-200;
+}
 @tailwind utilities;
